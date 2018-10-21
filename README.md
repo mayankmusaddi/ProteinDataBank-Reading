@@ -17,3 +17,6 @@ ex: Ratio(Leu) = no of leucine present/total length of protein.
 - `python3 exec.py`
 - Enter File Name - (eg:- 2wsc.pdb)
 - A file 2wsc_output.txt will be generated having the result.
+
+## Requirements
+- `pip3 install numpy`
